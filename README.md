@@ -60,5 +60,5 @@ This code downloads SDSS images, based on the coordinates of an object
 
   
  * Copyright 2017
- * Author: Ehsan Kourkchi <ekourkchi@gmail.com>sd
+ * Author: Ehsan Kourkchi <ekourkchi@gmail.com>
  * Feel free to distribute and modify for a better performance
