@@ -1,4 +1,4 @@
-# SDSS_get
+# SDSS GET
 A program to get SDSS images for given coordinates and size.
 
 This code downloads SDSS images, based on the coordinates of an object
