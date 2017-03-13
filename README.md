@@ -9,6 +9,7 @@ This code downloads SDSS images, based on the coordinates of an object
  * Dependencies:
  
  1) Python packages:
+ 
    - pyfits
    - numpy
    - optparse
@@ -16,6 +17,7 @@ This code downloads SDSS images, based on the coordinates of an object
  
  2) Montage software (An astronomical Image Mosaic Engine)
    Download: http://montage.ipac.caltech.edu/
+   
    - mImgtbl
    - mProjExec
    - mImgtbl
