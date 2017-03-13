@@ -42,14 +42,14 @@ This code downloads SDSS images, based on the coordinates of an object
  * How to run:
  
            1$ python SDSS_get.py -r [RA] -d [DEC] -w [FOV-width]
-   example  $ python SDSS_get.py -r 20.5604 -d 31.2547 -w 0.02
+            $ python SDSS_get.py -r 20.5604 -d 31.2547 -w 0.02
        -w 0.02   --> The final image would be a square, size: 0.02 degree on each side
      
       where RA and DEC are in degree. FOV-width is the
       width of the final image in degree. The final image is square shape.
     
            2$ python SDSS_get.py -r [RA] -d [DEC] -w [FOV-width] -b [SDSS-bands] -o [output_dir] -n [Object_name]
-   example  $ python SDSS_get.py -r 20.5604 -d 31.2547 -w 0.02 -b ugr -n pgc5057732 -o /home/user/
+            $ python SDSS_get.py -r 20.5604 -d 31.2547 -w 0.02 -b ugr -n pgc5057732 -o /home/user/
 
        -b ugr    --> To only download u,g,r-bands
        -b r      --> Only downloads r-band
