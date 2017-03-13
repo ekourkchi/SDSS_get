@@ -58,7 +58,6 @@ This code downloads SDSS images, based on the coordinates of an object
        -n <name> --> Sets the name of final files and folders based on the given name
        -o /home/user/ --> The final image(s) would be stored in the folder: /home/user/pgc5057732
 
-  
  * Copyright 2017
  * Author: Ehsan Kourkchi <ekourkchi@gmail.com>
  * Feel free to distribute and modify for a better performance
